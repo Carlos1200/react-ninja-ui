@@ -1,0 +1,64 @@
+.button{
+    display: inline-block;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+.primary{
+    background: #000;
+}
+
+.secondary{
+    background: #fff;
+}
+
+.success{
+    background: #4caf50;
+}
+
+.danger{
+    background: #f44336;
+}
+
+.warning{
+    background: #ff9800;
+}
+
+.info{
+    background: #2196f3;
+}
+
+.pill{
+    border-radius: 10em;
+}
+
+.rounded{
+    border-radius: 0.5em;
+}
+
+.square{
+    border-radius: 0;
+}
+
+.small{
+    padding: 0.25em 0.5em;
+}
+
+.medium{
+    padding: 0.5em 1em;
+}
+
+.large{
+    padding: 0.75em 1.5em;
+}
+
+.text-small{
+    font-size: 0.75em;
+}
+
+.text-medium{
+    font-size: 1em;
+}
+
+.text-large{
+    font-size: 1.25em;
+}
