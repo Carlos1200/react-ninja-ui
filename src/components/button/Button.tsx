@@ -1,5 +1,5 @@
 import "./button.css";
-interface ButtonProps {
+export interface ButtonProps {
   /**
    * The text to display in the button
    */
